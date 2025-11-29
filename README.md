@@ -25,24 +25,27 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos utilizando as tecnologias 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=FabioRoberto-ppt&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="180px"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRoberto-ppt&layout=compact&theme=tokyonight"
-    alt="Top Langs"
-    height="180px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioRoberto-ppt&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FabioRoberto-ppt&theme=tokyonight"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioRoberto-ppt&theme=tokyonight"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FabioRoberto-ppt&theme=tokyonight&utcOffset=3"
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioRoberto-ppt&theme=tokyonight"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabioRoberto-ppt&theme=tokyonight"
+  />
+</p>
 ---
 
 ## 📌 Sobre mim

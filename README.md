@@ -6,24 +6,11 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos utilizando as tecnologias 
 
 ## 🚀 Tecnologias que utilizo
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  
   <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nextjs,tailwind,cs,dotnet,figma" />
   </a>
 </div>
-</p>
 
 ---
 

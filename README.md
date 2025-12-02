@@ -17,6 +17,12 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos utilizando as tecnologias 
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  
+  <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nextjs,tailwind,cs,dotnet,figma" />
+  </a>
+</div>
 </p>
 
 ---

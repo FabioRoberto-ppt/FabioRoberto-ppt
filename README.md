@@ -51,7 +51,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos utilizando as tecnologias 
 - Uso Next.js, React e Tailwind para interfaces modernas  
 - Utilizo C# e .NET para APIs e aplicações robustas  
 - Experiência com bancos SQL Server  
--1 projeto completo usando next.js, tailwind, typescript, Html 5,figma, C# com api em pyton, mongoDb, projeto chamado "Sinout" onde lê expressões facias e transforma em palavras para ajuda pessoas com a doença ELA,
+-1 projeto completo usando next.js, tailwind, typescript, Html 5,figma, C# com api em python, mongoDb, projeto chamado "Sinout" onde lê expressões facias e transforma em palavras para ajuda pessoas com a doença ELA,
 100 atividades de lógica com javascript feitas,
 100 atividades de lógica com de visualg feitas,
 100 atividades de lógica com de C# feitas
